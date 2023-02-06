@@ -1,4 +1,4 @@
-<img src="./create-vitepress.svg" width="250" />
+<img src="../create-vitepress.svg" width="250" />
 
 # create-vitepress-app
 
