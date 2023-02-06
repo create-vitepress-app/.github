@@ -2,11 +2,11 @@
 
 # create-vitepress-app
 
-> A simple to generate a new vitepress project.
+> The simplest way to generate a Vitepress app
 
 ## Usage
 
-Get started by running a few commands and answering a few questions!
+Get started by running a few commands and answering a few questions! [Learn more](https://create-vitepress-app.github.io/)
 
 ```sh
 $ npm init vitepress-app@latest
