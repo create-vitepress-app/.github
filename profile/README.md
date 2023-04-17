@@ -1,3 +1,5 @@
+# This package has been deprecated in favor of Vitepress Setup Wizard ($ npx vitepress init)
+
 <img src="./create-vitepress.svg" width="250" />
 
 # create-vitepress-app
